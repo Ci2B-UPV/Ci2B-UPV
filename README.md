@@ -1,5 +1,5 @@
 - 👋 Hi, We're @Ci2B-UPV
-- 👀 We are interested in the creation of a center repository
+- 👀 We are interested in the creation of a common repository of the Center
 - 📫 How to reach me CI2B.RRSS@upv.es
 
 <!---
